@@ -21,7 +21,7 @@ A premium interactive calendar component built using Next.js, Tailwind CSS, and 
 - Clean code structure for maintainability
 
 ## 🌐 Live Demo
-(Will be added after deployment)
+https://wall-calendar-beta-sooty.vercel.app/
 
 ## 📂 Project Setup
 ```bash
@@ -30,5 +30,4 @@ npm run dev
 ## 📸 Preview
 ![Calendar UI](public/preview.png)
 
-##🌐 Live Demo
-https://wall-calendar-beta-sooty.vercel.app/
+
