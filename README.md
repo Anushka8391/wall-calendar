@@ -29,3 +29,6 @@ npm install
 npm run dev
 ## 📸 Preview
 ![Calendar UI](public/preview.png)
+
+##🌐 Live Demo
+https://wall-calendar-beta-sooty.vercel.app/
